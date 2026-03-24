@@ -40,25 +40,54 @@
 - https://www.panewslab.com/zh/newsflash
 - https://www.reuters.com/
 
-## 文章索引
+## README 索引
 
-### 2026-03-24
-
-- [一文看懂 Harness engineering：智能体时代的 AI 编程驾驭之道](article/2026-03-24-harness-engineering.md)
-- [给 AI 超能力？Superpowers 的设计与取舍](article/2026-03-24-ai-superpowers-skills.md)
-
-### 2026-03-23
-
-- [从OpenClaw看Web发展史：当AI拥有主权，人类还剩什么？](article/2026-03-23-web4-openclaw-panews.md)
-- [AI、阶级幻觉与“死亡螺旋”](article/2026-03-23-ai-class-illusion.md)
-
-### 2026-03-20
+### article
 
 - [前端工程化 + AI 赋能：从需求到运维的一条龙链路（读书笔记/落地清单）](article/2026-03-20-frontend-engineering-ai-docflow.md)
 - [OpenSpec vs Spec Kit：同为 SDD，但一个更“产品化”，一个更“方法论”](article/2026-03-20-openspec-vs-spec-kit.md)
 - [RAG（Retrieval-Augmented Generation）是什么：检索增强生成的通俗解释](article/2026-03-20-rag-explained.md)
 - [SDD vs TDD vs DDD：三种“开发/设计驱动”方法的侧重点](article/2026-03-20-sdd-tdd-ddd.md)
 - [深圳-惠州“双基地”育儿居住方案：可行性判断与落地建议](article/2026-03-20-shenzhen-huizhou-dual-base-plan.md)
+- [AI、阶级幻觉与“死亡螺旋”](article/2026-03-23-ai-class-illusion.md)
+- [从OpenClaw看Web发展史：当AI拥有主权，人类还剩什么？](article/2026-03-23-web4-openclaw-panews.md)
+- [给 AI 超能力？Superpowers 的设计与取舍](article/2026-03-24-ai-superpowers-skills.md)
+- [一文看懂 Harness engineering：智能体时代的 AI 编程驾驭之道](article/2026-03-24-harness-engineering.md)
+
+### news
+
+- [2026-03-08｜CoinMarketCap Charts & PANews 快讯解读](news/2026-03-08-cmc-panews.md)
+- [2026-03-08｜今日要闻速览（世界 / 美股 / 区块链）](news/2026-03-08.md)
+- [今日网页信息解读（CMC Charts / PANews 快讯 / Reuters）](news/2026-03-09-web-digest.md)
+- [2026-03-10 网页信息解读（CoinMarketCap / PANewsLab / Reuters）](news/2026-03-10-web-digest.md)
+- [市场快照与要点解读（2026-03-11 08:43 GMT+8）](news/2026-03-11-web-digest.md)
+- [近一月事件时间线：伊朗被轰炸 / 领导人死亡 / 封锁霍尔木兹海峡（截至 2026-03-13）](news/2026-03-13-iran-hormuz-timeline.md)
+- [今日市场与要闻速览（2026-03-13 08:5x GMT+8）](news/2026-03-13.md)
+- [2026-03-17 Web Digest（CoinMarketCap / PANews / Reuters）](news/2026-03-17-web-digest.md)
+- [2026-03-18（晚间）｜CoinMarketCap Charts + PANews 快讯解读](news/2026-03-18-cmc-panews-late-digest.md)
+- [2026-03-18｜CoinMarketCap 图表 + PANews 快讯 + Reuters 首页要闻解读](news/2026-03-18-cmc-panews-reuters-digest.md)
+- [2026-03-20 CMC 市场概况 + PANews 快讯解读](news/2026-03-20-cmc-panews-digest.md)
+- [加密市场快照 & 快讯解读（2026-03-20 早间，GMT+8）](news/2026-03-20-crypto-market-brief.md)
+- [2026-03-21｜CMC 市场概况 + PANews 快讯解读](news/2026-03-21-cmc-panews-digest.md)
+- [2026-03-22｜CoinMarketCap 市场概况 + PANews 快讯解读](news/2026-03-22-cmc-panews-digest.md)
+
+### research
+
+- [Pump.fun 的 $PUMP 回购计划（整理版）](research/2026-03-11-pump-buyback.md)
+- [PUMP（Pump.fun） vs WLD（World Network / Worldcoin）对比结论（研究笔记）](research/2026-03-11-pump-vs-wld.md)
+- [美国—伊朗战争：近期关键事件时间线（基于 Reuters 可见报道整理）](research/2026-03-11-us-iran-war-timeline.md)
+- [WLD 解锁与稀释压力（已解锁现状 + 未来解锁计划 + 怎么看稀释压力）](research/2026-03-11-wld-unlock-summary.md)
+- [ElizaOS（ELIZAOS）项目整理（按“项目/技术”与“代币/投资”分层）](research/2026-03-12-elizaos-project-review.md)
+- [2026-03-15 网页信息解读（CMC Charts / PANews 快讯 / Reuters）](research/2026-03-15-web-brief-cmc-panews-reuters.md)
+- [Playwright 简介（可用作对外说明文案）](research/2026-03-21-playwright-intro.md)
+- [Crypto Market Brief（CMC Charts + PANews 快讯）— 2026-03-23](research/2026-03-23-crypto-market-brief.md)
+- [WLD（World Network / Worldcoin）10 年持有：季度检查表（模板）](research/wld-quarterly-checklist.md)
+- [### **标题：别再只把 Claude Code Skills 当备忘录了：一份来自 Anthropic 内部的完整指南**](research/别再只把 Claude Code Skills 当备忘录了.md)
+- [Agent 正在绕开 GUI：软件竞争的范式转移](research/我们也许不该再投资 GUI 思维的软件公司.md)
+
+### education
+
+- [截至 **2026年3月14日**，南山区 **2026 小一**还没到正式报名和录取公布阶段，所以现在能拿来参考的最新完整数据，是 **2025年秋季入学**](education/2026-03-14-南山-2026小一-2025秋季参考.md)
 
 ## 仓库用法
 
@@ -66,6 +95,6 @@
 
 1. 提取正文与核心观点
 2. 整理成中文摘要 Markdown
-3. 存入 `article/` 目录
+3. 存入对应目录（如 `article/`、`news/`、`research/`、`education/`）
 4. 更新 README 索引
 5. 提交并推送到远端仓库
