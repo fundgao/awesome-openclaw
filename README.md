@@ -1,6 +1,6 @@
 # awesome-openclaw
 
-收集 OpenClaw / Claude Code / Codex / Agent 工程 / AI 编程工作流相关的文章、笔记与方法论整理。
+收集 OpenClaw / Claude Code / Codex / Agent 工程 / AI 编程工作流相关的文章、笔记、图片素材与方法论整理。
 
 ## AI 编程工具
 
@@ -81,6 +81,8 @@
 - [2026-03-15 网页信息解读（CMC Charts / PANews 快讯 / Reuters）](research/2026-03-15-web-brief-cmc-panews-reuters.md)
 - [Playwright 简介（可用作对外说明文案）](research/2026-03-21-playwright-intro.md)
 - [Crypto Market Brief（CMC Charts + PANews 快讯）— 2026-03-23](research/2026-03-23-crypto-market-brief.md)
+- [把 Playwright 接进真实前端项目：一份可直接落地的工程化接入指南](research/2026-03-24-playwright-real-project-guide.md)
+- [Next.js 官网纯展示项目怎么用 Playwright：把它当“发布保护网”，不是重型业务自动化](research/2026-03-24-nextjs-playwright-for-marketing-site.md)
 - [WLD（World Network / Worldcoin）10 年持有：季度检查表（模板）](research/wld-quarterly-checklist.md)
 - [### **标题：别再只把 Claude Code Skills 当备忘录了：一份来自 Anthropic 内部的完整指南**](research/别再只把 Claude Code Skills 当备忘录了.md)
 - [Agent 正在绕开 GUI：软件竞争的范式转移](research/我们也许不该再投资 GUI 思维的软件公司.md)
@@ -89,12 +91,18 @@
 
 - [截至 **2026年3月14日**，南山区 **2026 小一**还没到正式报名和录取公布阶段，所以现在能拿来参考的最新完整数据，是 **2025年秋季入学**](education/2026-03-14-南山-2026小一-2025秋季参考.md)
 
+### assets
+
+- [作为Leader也被裁了.jpg](assets/作为Leader也被裁了.jpg)
+- [程序员死胡同.jpg](assets/程序员死胡同.jpg)
+- [转型.jpg](assets/转型.jpg)
+
 ## 仓库用法
 
-当看到值得收藏的文章、公众号、博客或新闻分析时，可以：
+当看到值得收藏的文章、公众号、博客、新闻分析或图片素材时，可以：
 
 1. 提取正文与核心观点
 2. 整理成中文摘要 Markdown
-3. 存入对应目录（如 `article/`、`news/`、`research/`、`education/`）
+3. 存入对应目录（如 `article/`、`news/`、`research/`、`education/`、`assets/`）
 4. 更新 README 索引
 5. 提交并推送到远端仓库
