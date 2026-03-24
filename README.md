@@ -83,10 +83,14 @@
 - [Crypto Market Brief（CMC Charts + PANews 快讯）— 2026-03-23](research/2026-03-23-crypto-market-brief.md)
 - [把 Playwright 接进真实前端项目：一份可直接落地的工程化接入指南](research/2026-03-24-playwright-real-project-guide.md)
 - [Next.js 官网纯展示项目怎么用 Playwright：把它当“发布保护网”，不是重型业务自动化](research/2026-03-24-nextjs-playwright-for-marketing-site.md)
-- [美国普通青少年会不会买中国小商品：会买很多，但未必在意是不是中国品牌](research/2026-03-24-us-teens-and-china-gadgets.md)
 - [WLD（World Network / Worldcoin）10 年持有：季度检查表（模板）](research/wld-quarterly-checklist.md)
 - [### **标题：别再只把 Claude Code Skills 当备忘录了：一份来自 Anthropic 内部的完整指南**](research/2026-03-18.md)
 - [Agent 正在绕开 GUI：软件竞争的范式转移](research/2026-03-182.md)
+
+### market
+
+- [美国普通青少年会不会买中国小商品：会买很多，但未必在意是不是中国品牌](market/2026-03-24-us-teens-and-china-gadgets.md)
+- [在 TikTok 上更容易爆的中国小商品：不是因为“中国产”，而是因为它们太符合短视频爆款逻辑](market/2026-03-24-tiktok-viral-china-gadgets.md)
 
 ### education
 
@@ -110,6 +114,6 @@
 
 1. 提取正文与核心观点
 2. 整理成中文摘要 Markdown
-3. 存入对应目录（如 `article/`、`news/`、`research/`、`education/`、`assets/`）
+3. 存入对应目录（如 `article/`、`news/`、`research/`、`market/`、`education/`、`assets/`）
 4. 更新 README 索引
 5. 提交并推送到远端仓库
