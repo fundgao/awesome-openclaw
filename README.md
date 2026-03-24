@@ -84,8 +84,8 @@
 - [把 Playwright 接进真实前端项目：一份可直接落地的工程化接入指南](research/2026-03-24-playwright-real-project-guide.md)
 - [Next.js 官网纯展示项目怎么用 Playwright：把它当“发布保护网”，不是重型业务自动化](research/2026-03-24-nextjs-playwright-for-marketing-site.md)
 - [WLD（World Network / Worldcoin）10 年持有：季度检查表（模板）](research/wld-quarterly-checklist.md)
-- [### **标题：别再只把 Claude Code Skills 当备忘录了：一份来自 Anthropic 内部的完整指南**](research/别再只把 Claude Code Skills 当备忘录了.md)
-- [Agent 正在绕开 GUI：软件竞争的范式转移](research/我们也许不该再投资 GUI 思维的软件公司.md)
+- [别再只把 Claude Code Skills 当备忘录了：一份来自 Anthropic 内部的完整指南](research/2026-03-18)
+- [Agent 正在绕开 GUI：软件竞争的范式转移](research/2026-03-182.md)
 
 ### education
 
