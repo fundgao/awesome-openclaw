@@ -53,6 +53,7 @@
 - [从OpenClaw看Web发展史：当AI拥有主权，人类还剩什么？](article/2026-03-23-web4-openclaw-panews.md)
 - [给 AI 超能力？Superpowers 的设计与取舍](article/2026-03-24-ai-superpowers-skills.md)
 - [一文看懂 Harness engineering：智能体时代的 AI 编程驾驭之道](article/2026-03-24-harness-engineering.md)
+- [Anthropic 说：别等下一代模型了，先把 Harness 搭起来](article/2026-03-26-anthropic-dont-wait-next-model-build-harness-now.md)
 
 ### news
 
