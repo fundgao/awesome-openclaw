@@ -15,6 +15,7 @@
 
 - openspec
 - ralph
+- cc switch
 
 ## AI 配置
 
@@ -118,3 +119,9 @@
 3. 存入对应目录（如 `article/`、`news/`、`research/`、`market/`、`education/`、`assets/`）
 4. 更新 README 索引
 5. 提交并推送到远端仓库
+
+## 终端网络查询
+- curl cip.cc
+
+## AI 中转站检测
+- https://hvoy.ai/
