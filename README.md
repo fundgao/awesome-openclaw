@@ -5,17 +5,19 @@
 ## AI 编程工具
 
 - [openclaw](https://openclaw.ai/)
-- skills.sh
 - claude code
 - codex
 - opencode
 - cursor
+- antigravity
+- [hermes agent](https://github.com/NousResearch/hermes-agent)
+- [openclaw](https://github.com/openclaw/openclaw)
 
 ## AI 插件
 
-- openspec
+- openspec | speckit
 - ralph
-- cc switch
+- [cc switch](https://github.com/farion1231/cc-switch)
 
 ## AI 配置
 
@@ -30,10 +32,20 @@
 
 ## AI 中转站
 
-- https://www.aicodemirror.com/
+- [new-api](https://github.com/QuantumNous/new-api)
 - https://api.code-relay.com/
 - https://ai.ltcraft.cn:12000/
 - 闲鱼
+- https://www.aicodemirror.com/
+- https://dragoncode.codes/
+- 高级货贵 https://www.aicodemirror.com/register?invitecode=MG0MLC
+- 便宜稳定 https://aitechflux.com/register?aff=QtJo
+
+## Skills
+- https://github.com/affaan-m/everything-claude-code
+- https://github.com/JimLiu/baoyu-skills
+- https://github.com/obra/superpowers
+- skills.sh
 
 ## 新闻网站
 
