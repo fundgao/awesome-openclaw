@@ -57,6 +57,7 @@
 
 ### article
 
+- [AI Trading Agent 时代下的思考：金融市场正在发生的分层与分化](article/2026-04-20-ai-trading-agent-era-analysis.md)
 - [前端工程化 + AI 赋能：从需求到运维的一条龙链路（读书笔记/落地清单）](article/2026-03-20-frontend-engineering-ai-docflow.md)
 - [OpenSpec vs Spec Kit：同为 SDD，但一个更“产品化”，一个更“方法论”](article/2026-03-20-openspec-vs-spec-kit.md)
 - [RAG（Retrieval-Augmented Generation）是什么：检索增强生成的通俗解释](article/2026-03-20-rag-explained.md)
